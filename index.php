@@ -12,7 +12,7 @@
 			This text appears in front of the background image.
 		
 
-		<h1>About Marty Bonacci</h1>
+		<h1>About Marty B</h1>
 		<p>More about Marty</p>
 		<p></p>
 		</div>
