@@ -11,13 +11,8 @@
 	</head>
 	<body>
 
-
 		<h1>About Marty B</h1>
 		<p>More about Marty</p>
-		<p></p>
-
-
-
 
 	</body>
 </html>
