@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<h1>About Marty Bonacci</h1>
-		<img src="images/marty-on-mt-taylor.jpg">
+		<img width="100%" src="images/marty-on-mt-taylor.jpg">
 		<p>More about Marty</p>
 		<p></p>
 
