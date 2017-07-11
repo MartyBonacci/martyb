@@ -10,7 +10,7 @@
 	<body>
 
 		<h1>About Marty B</h1>
-		<p>More about Marty B</p>
+		<p>More about Marty B 2</p>
 
 	</body>
 </html>
